@@ -202,7 +202,9 @@ margin-top: 30px;
   color:#ffffff;
   text-decoration: none;
 }
-
+.conteudo a:hover{
+  color:#ffffff;
+}
 
 
 
